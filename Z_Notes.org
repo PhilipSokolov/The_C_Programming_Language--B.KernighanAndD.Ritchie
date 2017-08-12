@@ -7,4 +7,11 @@
 - The authors state that C is not a 'big' language. 
 - It is easy to learn, wears well over time and is expressive and versatile.
 * Introduction
+- C is a general programming language that is closely associated with the UNIX OS, because it was developed there,
+  and both the UNIX OS and most of the programs running on it are written in C.
+- The language is not tied to any OS.
+- Many of the Important ideas of C stem from BCPL by Martin Richards proceeding inderectly through B by Ken Thompson (1st UNIX, DEC-PDP7)
+** Behaviour
+- BCPL & B are 'typeless' languages --meaning that ... --
+- C however provides a variety of --fluid-- Data Types
 
