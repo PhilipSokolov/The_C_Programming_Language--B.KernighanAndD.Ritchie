@@ -1,4 +1,10 @@
 #+TITLE:  Notes on "The C Programming Language"
 #+AUTHOR: Philip Sokolov
 
-* Preface 
+* Preface & preface to the 1st edition
+- C originaly was the language of the UNIX operating system, on the DEC PDP-11.
+- The ANSI began standardizing C in 1983; formalizing the language.
+- The authors state that C is not a 'big' language. 
+- It is easy to learn, wears well over time and is expressive and versatile.
+* Introduction
+
